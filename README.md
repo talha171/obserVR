@@ -12,5 +12,17 @@ and learn from his experimentation.
 Though whether such an application will adequately serve educational needs depends on the realistic behaviour of the objects, the precision of the visual data, and the level of complexity that has been used to represent the natural laws or principles governing the specific field, its application will certainly have a positive impact on the learning outcomes of students
 
 Here are the promo videos:
+https://youtu.be/_OpToszRBOU
+https://youtu.be/BP3b6OxYL18
+https://youtu.be/6zbcIJzTl_I
+https://youtu.be/uaqVdkwia3Q
+https://youtu.be/eyYvboYr2aM
+
+Team: TA Era
+License: This project is licensed under Academic Free License v3.0.
+Country: Pakistan
+Author: https://github.com/talha171
+
+
 
 VR for Community
